@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the homepage for my homework
 
-I'm glad you are here. I plan to talk about ...
+I really shouldn't have taken so long to do this
